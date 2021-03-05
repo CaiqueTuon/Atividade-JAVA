@@ -87,7 +87,7 @@ public class Funcionario {
 	}
 
 
-	public void setCargo(String cargo) {
+	public void setCargo( String Cargo) {
 		System.out.println("Entre com o cargo dele: ");
 		Cargo = ler.nextLine();
 		this.Cargo = Cargo;
