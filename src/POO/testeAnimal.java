@@ -9,6 +9,8 @@ public class testeAnimal {
 		
 		Scanner ler = new Scanner(System.in);
 		
+		
+		
 		Cachorro Ktchoro1 = new Cachorro();
 		Cavalo Cavalin1 = new Cavalo(null,null);
 		Preguiça Caique = new Preguiça(null,null);
